@@ -1,4 +1,4 @@
-# Calculator
+
 # Python Calculator with GUI using Tkinter
 
 ## Description
