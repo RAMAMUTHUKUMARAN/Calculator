@@ -12,7 +12,9 @@ This is a simple Python calculator application with a graphical user interface (
 - Multiplication (*)
 - Division (/)
 
-## Requirements
+## ScreenShots
+![image](https://github.com/RAMAMUTHUKUMARAN/Calculator/assets/130954718/0f7c6369-6015-48aa-aeaa-48e486684209)
+![image](https://github.com/RAMAMUTHUKUMARAN/Calculator/assets/130954718/500f404f-20ab-47df-9e6b-16018edeeb96)
 
-- Python 3.x
-- Tkinter
+
+
